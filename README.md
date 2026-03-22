@@ -56,10 +56,11 @@ http://127.0.0.1:8000/docs
 
 📂 Project Structure
 
-project/
+Medical-Appointment-System/
+│── screenshots/
+│── README.md
 │── main.py
 │── requirements.txt
-│── README.md
 
 ---
 
